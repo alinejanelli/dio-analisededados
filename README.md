@@ -16,23 +16,26 @@ Explorar e praticar o uso das ferramentas **Azure Speech Studio** e **Azure Lang
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- ✅ Microsoft Azure
-  - Speech Studio 🗣️
-  - Language Studio 🧾
-- ✅ Git e GitHub
-- ✅ Markdown
+- ✅ Microsoft Azure  
+  - Speech Studio 🗣️  
+  - Language Studio 🧾  
+- ✅ Git e GitHub  
+- ✅ Markdown  
 - ✅ Visual Studio Code (opcional)
 
 ---
 
 ## 📌 Atividades Realizadas
 
-- 🎤 Transcrição de áudio (Speech to Text)
-- 🧏‍♀️ Conversão de texto em fala (Text to Speech)
-- 💬 Análise de sentimentos
-- 🏷️ Detecção de entidades nomeadas (NER)
-- 🔒 Detecção de dados sensíveis (PII/PHI)
-- 🧪 Testes com modelos personalizados de linguagem
+- 🎤 **Transcrição de Áudio (Speech to Text)**  
+  Criei áudios pela gravação direta, falando de assuntos aleatórios. Também testei incluindo o download de um áudio de app de conversa.  
+  ➤ **Resultado**: o texto saiu exatamente como falado.
+
+- 🗣️ **Conversão de Texto em Fala (Text to Speech)**  
+  Criei textos simples e fui testando com os vários tipos de vozes disponíveis no banco do Azure.
+
+- 😊 **Análise de Sentimentos**  
+  Através de textos já salvos na plataforma, testei diferentes emoções: satisfação, insatisfação, elogios, entre outros.
 
 ---
 
@@ -46,3 +49,4 @@ azure-ai-speech-language-lab/
 │   └── language-studio-result.png
 └── exemplos/
     └── resposta-sentimento.json
+
